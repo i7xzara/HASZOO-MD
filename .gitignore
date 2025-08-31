@@ -1,0 +1,9 @@
+node_modules/
+.env
+auth_info/
+session.json
+session/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
